@@ -1,0 +1,7 @@
+best_model=Logistic Regression (tuned)
+cv_mean_accuracy=0.7521
+held_out_test_accuracy=0.8265
+n_training_examples=488
+n_categories=26
+features=word(1,2)-grams + char_wb(3,5)-grams
+best_params={'clf__C': 3}

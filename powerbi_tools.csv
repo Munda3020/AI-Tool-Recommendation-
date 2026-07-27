@@ -1,0 +1,108 @@
+tool_name,category,pricing_tier,best_for,tags,official_url
+ChatGPT,General AI Assistant,Freemium,"Most versatile all-purpose assistant; writing, research, coding, voice",chat assistant writing general knowledge coding voice multimodal versatile,https://chatgpt.com
+Claude,General AI Assistant,Freemium,"Long-form writing, careful reasoning, and large codebase understanding",chat assistant writing reasoning coding long context analysis careful,https://claude.ai
+Gemini,General AI Assistant,Freemium,Deep Google Workspace integration and large multimodal context,chat assistant google workspace multimodal video image research,https://gemini.google.com
+Grok,General AI Assistant,Freemium,Real-time fact-checking and X/Twitter-integrated search,chat assistant fact check real-time social media search,https://grok.com
+Microsoft Copilot,General AI Assistant,Freemium,"AI embedded across Word, Excel, Outlook, and Teams",chat assistant office word excel outlook teams enterprise,https://copilot.microsoft.com
+Cursor,Coding & Development,Freemium,"AI-native code editor for professional, codebase-aware development",coding editor ide programming refactor codebase autocomplete developer,https://cursor.com
+Claude Code,Coding & Development,Paid,"Terminal-based agentic coding for complex, multi-file work",coding agentic terminal debugging refactor programming automation pipeline,https://claude.com/product/claude-code
+GitHub Copilot,Coding & Development,Freemium,In-editor code completion tightly integrated with the GitHub ecosystem,coding autocomplete ide programming developer completion github,https://github.com/features/copilot
+Replit AI,Coding & Development,Freemium,Browser-based app building and deployment for beginners,coding app building deployment beginner cloud prototyping browser,https://replit.com
+Aider,Coding & Development,Free,Open-source terminal pair programmer with automatic git commits,coding terminal git open source pair programming commit,https://aider.chat
+Windsurf,Coding & Development,Freemium,AI-native IDE with fast completions for everyday coding,coding ide editor completion programming developer,https://windsurf.com
+Lovable,Coding & Development,Freemium,"Building full web apps from plain-language prompts, no coding needed",coding no-code app building website prompt beginner mvp,https://lovable.dev
+Bolt.new,Coding & Development,Freemium,Instant full-stack app scaffolding and shipping in the browser,coding no-code app building website scaffolding fast prototyping,https://bolt.new
+v0,Coding & Development,Freemium,Generating production-ready UI components from text prompts,coding ui components frontend design generation react,https://v0.dev
+Perplexity,Search & Research,Freemium,"Real-time web search with cited, trustworthy summarized answers",search research citations real-time answers fact finding sources,https://www.perplexity.ai
+NotebookLM,Search & Research,Free,Source-grounded research answers only from documents you upload,research documents grounded notes study briefs uploaded files,https://notebooklm.google
+Consensus,Search & Research,Freemium,Finding and summarizing scientific research consensus on a question,research scientific papers evidence consensus academic search,https://consensus.app
+Elicit,Search & Research,Freemium,Academic literature review and research paper summarization,research academic papers literature review citations systematic review,https://elicit.com
+You.com,Search & Research,Freemium,"AI-powered search with specialized, app-like modes",search research web browsing answers,https://you.com
+Gamma,Presentations,Freemium,Fastest prompt-to-deck generation with clean export,presentation slides deck pitch design generate outline document webpage,https://gamma.app
+Beautiful.ai,Presentations,Paid,Auto-formatted slide layouts with zero manual design work,presentation slides templates auto-design business deck,https://www.beautiful.ai
+Tome,Presentations,Freemium,Narrative-style AI presentations and pitch decks,presentation slides storytelling pitch deck narrative,https://tome.app
+Decktopus,Presentations,Freemium,"Fast, simple slide generation from a short prompt",presentation slides quick deck generator,https://www.decktopus.com
+Midjourney,Image Generation,Paid,"The most artistically impactful, stylized image generation",image generation art illustration design creative visuals,https://www.midjourney.com
+Adobe Firefly,Image Generation,Freemium,"Commercially-safe, licensed image generation for business use",image generation design graphics commercial safe adobe product,https://firefly.adobe.com
+DALL-E,Image Generation,Freemium,"Quick, prompt-accurate images integrated with ChatGPT",image generation illustration graphics visuals design,https://openai.com/dall-e-3
+Ideogram,Image Generation,Freemium,Image generation with accurate embedded text and typography,image generation logo text typography graphics design,https://ideogram.ai
+Leonardo AI,Image Generation,Freemium,"Game assets, concept art, and stylized visual generation",image generation game art concept art design visuals,https://leonardo.ai
+Higgsfield,Image Generation,Freemium,"Dynamic, motion-inspired AI images and short animations",image generation dynamic motion creative visuals animation,https://higgsfield.ai
+Runway,Video Generation,Paid,AI video generation and editing for creative/marketing video,video generation editing effects creative marketing clip,https://runwayml.com
+HeyGen,Video Generation,Freemium,AI avatar presenter videos with dubbing and localization,video avatar dubbing localization marketing explainer presenter,https://www.heygen.com
+Synthesia,Video Generation,Paid,AI avatar training and corporate videos from a script,video avatar presenter training corporate explainer script,https://www.synthesia.io
+Veo,Video Generation,Freemium,High-quality text-to-video generation from Google,video generation text to video google realistic,https://deepmind.google/technologies/veo/
+Pika,Video Generation,Freemium,Short AI-generated video clips from text or images,video generation short clips text to video,https://pika.art
+Luma AI,Video Generation,Freemium,Realistic AI video generation and 3D capture,video generation 3d capture realistic visuals,https://lumalabs.ai
+Submagic,Video Generation,Freemium,Automatic captions and edits for short-form video platforms,video captions editing short-form social media clips,https://www.submagic.co
+Pippit,Video Generation,Freemium,Animating static images into talking marketing videos,video animation marketing social media images talking,https://www.pippit.ai
+ElevenLabs,Voice & Audio,Freemium,The most realistic AI voice generation and cloning available,voice audio text to speech narration dubbing podcast cloning,https://elevenlabs.io
+Murf AI,Voice & Audio,Freemium,"Voiceovers for presentations, training videos, and ads",voice audio voiceover narration training video ads,https://murf.ai
+Descript,Voice & Audio,Freemium,Podcast and video editing by editing a text transcript,audio video editing podcast transcript voice cloning,https://www.descript.com
+Podcastle,Voice & Audio,Freemium,AI-powered podcast recording cleanup and enhancement,audio podcast cleanup recording enhancement voice,https://podcastle.ai
+Otter.ai,Meetings & Productivity,Freemium,Meeting transcription with automatic summaries and action items,meeting transcription notes summary action items productivity call,https://otter.ai
+Fireflies.ai,Meetings & Productivity,Freemium,"Meeting recording, transcription, and CRM integration",meeting transcription notes crm sales productivity,https://fireflies.ai
+Fathom,Meetings & Productivity,Freemium,The best free meeting recorder with zero setup friction,meeting recording transcription notes free summary,https://fathom.video
+Granola,Meetings & Productivity,Freemium,Meeting notes that blend your own typing with AI transcription,meeting notes transcription productivity hybrid,https://www.granola.ai
+Notion AI,Meetings & Productivity,Paid,"Writing, summarizing, and organizing content inside Notion docs",productivity notes writing summarizing organization docs workspace,https://www.notion.com/product/ai
+Motion,Meetings & Productivity,Paid,AI-automated calendar and task scheduling,productivity scheduling calendar tasks automation planning,https://www.usemotion.com
+Canva,Design,Freemium,"The easiest way to turn an idea into graphics, slides, and social assets",design graphics social media templates marketing visuals easy,https://www.canva.com
+Figma AI,Design,Freemium,AI-assisted UI/UX design and product prototyping,design ui ux prototyping product design,https://www.figma.com/ai
+Julius AI,Data Analysis,Freemium,Conversational data analysis and visualization from spreadsheets,data analysis spreadsheet visualization statistics charts query,https://julius.ai
+Power BI Copilot,Data Analysis,Paid,AI-assisted report building inside Microsoft Power BI,data analysis dashboard business intelligence reporting microsoft,https://powerbi.microsoft.com
+Akkio,Data Analysis,Paid,No-code predictive modeling for business teams,data analysis predictive modeling machine learning no-code business,https://www.akkio.com
+Claude (Data Analysis),Data Analysis,Freemium,Analyzing datasets and building charts/dashboards conversationally,data analysis csv excel charts dashboard statistics python code,https://claude.ai
+Zapier,Automation & Agents,Freemium,The widest app library for connecting tools into automated workflows,automation workflow integration apps trigger no-code agent,https://zapier.com
+Make,Automation & Agents,Freemium,"Visual, more generous free-tier automation workflows",automation workflow integration visual builder no-code,https://www.make.com
+n8n,Automation & Agents,Freemium,Self-hosted automation for full data control,automation workflow self-hosted open source data control,https://n8n.io
+Craze,Automation & Agents,Freemium,One workspace to chat across models and build no-code agents,automation agent workspace chat models no-code workflow,https://www.crazehq.com
+Jasper,Marketing Content,Paid,On-brand marketing copy at scale for teams,marketing copywriting ad copy brand voice content calendar,https://www.jasper.ai
+Copy.ai,Marketing Content,Freemium,"Short-form marketing copy, social captions, product descriptions",marketing copywriting social media captions product descriptions,https://www.copy.ai
+AdCreative.ai,Marketing Content,Paid,Generating ad creative variations optimized for conversion,marketing ads creative variations conversion testing,https://www.adcreative.ai
+Semrush,SEO,Paid,The most complete all-in-one SEO platform with AI search tracking,seo search visibility keywords ranking analytics ai overview,https://www.semrush.com
+Ahrefs,SEO,Paid,Backlink intelligence and competitive SEO analysis,seo backlinks competitive analysis keywords ranking,https://ahrefs.com
+Surfer SEO,SEO,Paid,On-page content optimization for search ranking,seo content optimization on-page writing ranking,https://surferseo.com
+Intercom Fin,Customer Support,Paid,The highest resolution rates for AI-automated customer support,customer support chatbot resolution tickets automation,https://www.intercom.com/fin
+Freshdesk Freddy AI,Customer Support,Freemium,Best-value AI customer support for growing teams,customer support chatbot tickets automation helpdesk,https://www.freshworks.com/freshdesk
+Glean,Enterprise Knowledge,Paid,Enterprise knowledge search across all a company's internal tools,enterprise search knowledge internal documents company,https://www.glean.com
+ChatPDF,Document Tools,Freemium,Asking questions about a PDF instead of reading it page by page,document pdf questions reading summarization,https://www.chatpdf.com
+TinyWow,Document Tools,Free,Dozens of everyday file conversion and editing utilities,document utility conversion file editing free,https://tinywow.com
+Suno,Music Generation,Freemium,Generating full songs with vocals from a text prompt,music song generation vocals audio creative,https://suno.com
+Udio,Music Generation,Freemium,AI music generation with genre and style control,music song generation genre style audio creative,https://www.udio.com
+Sudowrite,Creative Writing,Paid,"Fiction writing, story brainstorming, and creative prose",fiction creative writing story novel brainstorming prose,https://www.sudowrite.com
+Grammarly,Writing & Editing,Freemium,"Grammar, tone, and clarity editing on existing text",grammar editing proofreading tone clarity writing assistant,https://www.grammarly.com
+Writesonic,Writing & Editing,Freemium,"General AI writing for blogs, ads, and long-form content",writing blog content long-form ads general,https://writesonic.com
+QuillBot,Writing & Editing,Freemium,"Paraphrasing, summarizing, and grammar checking for students and writers",writing paraphrase summarize grammar student editing,https://quillbot.com
+Wordtune,Writing & Editing,Freemium,Rewriting sentences for clarity and tone on the fly,writing rewrite tone clarity editing sentence,https://www.wordtune.com
+Tabnine,Coding & Development,Freemium,Privacy-focused AI code completion with on-premise deployment options,coding autocomplete privacy on-premise enterprise developer,https://www.tabnine.com
+Plus AI,Presentations,Freemium,AI slide generation directly inside Google Slides and PowerPoint,presentation slides google powerpoint plugin generate,https://plusai.com
+SlidesAI,Presentations,Freemium,Turning text into Google Slides presentations automatically,presentation slides google automatic text to slides,https://www.slidesai.io
+Stable Diffusion,Image Generation,Free,"Open-source, self-hostable image generation with full control",image generation open source self-hosted customizable art,https://stability.ai
+Kapwing,Video Generation,Freemium,Browser-based collaborative video editing with AI tools built in,video editing collaborative browser social media clips,https://www.kapwing.com
+InVideo,Video Generation,Freemium,Turning scripts or blog posts into full marketing videos,video generation marketing script blog templates,https://invideo.io
+Play.ht,Voice & Audio,Freemium,Ultra-realistic text-to-speech for apps and content,voice audio text to speech api realistic narration,https://play.ht
+Krisp,Voice & Audio,Freemium,Real-time AI noise cancellation for calls and recordings,audio noise cancellation calls meetings clarity,https://krisp.ai
+Supernormal,Meetings & Productivity,Freemium,"Automatic, well-formatted meeting notes with minimal setup",meeting notes transcription productivity automatic,https://supernormal.com
+Uizard,Design,Freemium,Turning sketches or text prompts into UI mockups fast,design ui mockup prototyping sketch app screens,https://uizard.io
+Looka,Design,Paid,AI logo and brand identity generation for small businesses,design logo branding identity small business,https://looka.com
+Tableau AI,Data Analysis,Paid,AI-assisted insight generation inside enterprise Tableau dashboards,data analysis dashboard business intelligence enterprise visualization,https://www.tableau.com
+DataRobot,Data Analysis,Paid,Enterprise-grade automated machine learning pipelines,data analysis machine learning automated enterprise predictive,https://www.datarobot.com
+Relay.app,Automation & Agents,Freemium,Human-in-the-loop automation workflows with AI steps,automation workflow human review agent no-code,https://relay.app
+Gumloop,Automation & Agents,Freemium,Visual AI workflow builder for non-technical automation,automation workflow visual builder no-code agent,https://www.gumloop.com
+Anyword,Marketing Content,Paid,Performance-predicting marketing copy generation,marketing copywriting performance prediction ads content,https://www.anyword.com
+Clearscope,SEO,Paid,Content optimization graded against top-ranking pages,seo content optimization grading ranking keywords,https://www.clearscope.io
+Zendesk AI,Customer Support,Paid,AI-automated ticket routing and resolution at enterprise scale,customer support chatbot tickets automation enterprise helpdesk,https://www.zendesk.com/service/ai
+Ada,Customer Support,Paid,No-code AI customer service agents for high ticket volume,customer support chatbot automation no-code agent,https://www.ada.cx
+Guru,Enterprise Knowledge,Freemium,Verified internal knowledge base surfaced where teams already work,enterprise knowledge internal documents verified wiki,https://www.getguru.com
+PDF.ai,Document Tools,Freemium,Chatting with PDFs to extract answers and summaries,document pdf chat questions summarization extraction,https://pdf.ai
+Adobe Acrobat AI Assistant,Document Tools,Freemium,AI summarization and Q&A built into the standard PDF workflow,document pdf summarization questions adobe standard,https://www.adobe.com/acrobat/generative-ai-pdf.html
+AIVA,Music Generation,Freemium,Composing original instrumental scores for film and games,music composition instrumental score film game,https://www.aiva.ai
+NovelAI,Creative Writing,Paid,AI-assisted long-form fiction and roleplay writing,fiction creative writing novel roleplay story,https://novelai.net
+Harvey AI,Legal & Compliance,Paid,"AI-assisted legal research, contract review, and drafting for law firms",legal contract review research drafting compliance law,https://www.harvey.ai
+Superhuman AI,Email & Sales,Paid,"AI-triaged, fast email management for busy professionals",email inbox triage productivity sales fast,https://superhuman.com
+DeepL,Translation,Freemium,The most accurate AI translation across major languages,translation language accurate documents text,https://www.deepl.com
+Mem,Notes & Knowledge Management,Freemium,AI-organized personal notes that self-sort without folders,notes knowledge management organization personal search,https://mem.ai
+D-ID,Avatar & Digital Human,Freemium,Turning a photo into a talking digital avatar video,avatar digital human video talking photo animation,https://www.d-id.com
+Framer AI,Website Building,Freemium,"AI-generated, designer-quality websites from a text prompt",website builder design no-code landing page prompt,https://www.framer.com/ai
+Glide,Website Building,Freemium,Turning a spreadsheet into a working app or internal tool,app builder no-code spreadsheet internal tool website,https://www.glideapps.com
+Spline AI,3D & Spatial Design,Freemium,AI-assisted 3D design and interactive web graphics,3d design spatial interactive web graphics animation,https://spline.design

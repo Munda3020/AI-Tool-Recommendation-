@@ -1,0 +1,6 @@
+model,cv_mean_accuracy,selected
+Logistic Regression (tuned),0.7521,True
+Logistic Regression,0.7377,False
+Linear SVM,0.7337,False
+Voting Ensemble (LR + SVM),0.7336,False
+Multinomial Naive Bayes,0.6845,False

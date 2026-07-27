@@ -1,0 +1,489 @@
+task_text,category
+write ad copy for my campaign,Marketing Content
+I need citations for my thesis,Search & Research
+draft a standard legal agreement,Legal & Compliance
+I need notes from today's meeting,Meetings & Productivity
+generate code comments and documentation,Coding & Development
+design an email newsletter template,Design
+animate a photo to talk and present,Avatar & Digital Human
+make a song with vocals from lyrics,Music Generation
+talk through a tricky situation with an AI,General AI Assistant
+design an interactive 3D scene for my website,3D & Spatial Design
+research keywords for a blog post,SEO
+look up facts and verify with sources,Search & Research
+correct spelling and grammar errors,Writing & Editing
+I need slides for an investor pitch,Presentations
+visualize this sales data,Data Analysis
+automate a repetitive manual process at work,Automation & Agents
+brainstorm names for characters in my novel,Creative Writing
+help me write unit tests,Coding & Development
+write a product launch announcement,Marketing Content
+trigger an action when a new row is added,Automation & Agents
+build an interactive spatial design for the web,3D & Spatial Design
+rewrite this to sound more professional,Writing & Editing
+generate an upbeat song for an ad,Music Generation
+turn a still photo into a talking video,Avatar & Digital Human
+get answers from a contract without reading it fully,Document Tools
+capture a quick thought and file it automatically,Notes & Knowledge Management
+convert text to natural sounding speech,Voice & Audio
+set up a zap between my apps,Automation & Agents
+create an illustration in a specific art style,Image Generation
+create email marketing copy,Marketing Content
+extract key decisions from this meeting,Meetings & Productivity
+clean and analyze this messy dataset,Data Analysis
+research case law for this legal question,Legal & Compliance
+design a poster for an event,Design
+design album cover artwork,Image Generation
+make a business presentation quickly,Presentations
+manage my sales inbox efficiently,Email & Sales
+find the right internal document quickly,Enterprise Knowledge
+automate our helpdesk ticket triage,Customer Support
+build a multi-step automated workflow,Automation & Agents
+calculate year over year growth from this data,Data Analysis
+reduce customer wait times with automation,Customer Support
+search my personal notes instantly,Notes & Knowledge Management
+continue this story I started,Creative Writing
+create a short promotional video,Video Generation
+design spatial graphics for the web,3D & Spatial Design
+handle refund requests automatically,Customer Support
+generate multiple headline options for an ad,Marketing Content
+check my writing for grammar mistakes,Writing & Editing
+turn my photo into a talking avatar video,Avatar & Digital Human
+generate a virtual human to host a video,Avatar & Digital Human
+accurately translate this text between languages,Translation
+make my writing more concise,Writing & Editing
+audit my site's SEO performance,SEO
+proofread my essay,Writing & Editing
+develop a character for my novel,Creative Writing
+write social media captions,Marketing Content
+automatically sort emails into folders,Email & Sales
+draft a quick reply to a client email,Email & Sales
+create 3D graphics for a web project,3D & Spatial Design
+generate a cinematic video clip from a prompt,Video Generation
+design a 3D configurator for a product,3D & Spatial Design
+route support tickets to the right team,Customer Support
+surface verified answers from our internal docs,Enterprise Knowledge
+extract text from a scanned image document,Document Tools
+complete this half-written program,Coding & Development
+resolve tickets without a human agent,Customer Support
+help me write a plot twist for my story,Creative Writing
+generate boilerplate code for an API,Coding & Development
+search across all our internal company documents,Enterprise Knowledge
+build a command line tool in python,Coding & Development
+animate my headshot to speak a script,Avatar & Digital Human
+grade my content against top-ranking pages,SEO
+I need voice for a training module,Voice & Audio
+generate an illustration for my book cover,Image Generation
+find recent studies on this topic,Search & Research
+identify which factors most affect this outcome,Data Analysis
+I need a versatile assistant for anything,General AI Assistant
+look up what scientists say about this,Search & Research
+translate technical documentation accurately,Translation
+analyze website traffic data for trends,Data Analysis
+build a rotating 3D product display,3D & Spatial Design
+translate a product manual into multiple languages,Translation
+find peer reviewed research on a question,Search & Research
+improve the tone of this email,Writing & Editing
+generate a slide deck from this text,Presentations
+translate my website content into another language,Translation
+check consistency of tense throughout this document,Writing & Editing
+fact check a claim using web sources,Search & Research
+identify liability clauses in this agreement,Legal & Compliance
+write a function to process this data,Coding & Development
+record and transcribe my zoom call,Meetings & Productivity
+keep a running journal that organizes itself,Notes & Knowledge Management
+design an interactive web animation in 3D,3D & Spatial Design
+generate royalty free music,Music Generation
+create a short musical sting for an intro,Music Generation
+create abstract art for a wall print,Image Generation
+help me trace through this stack trace,Coding & Development
+check this text for tone and readability,Writing & Editing
+explain a complex topic to me simply,General AI Assistant
+segment customers based on this data,Data Analysis
+triage and sort my daily emails,Email & Sales
+organize my personal notes automatically,Notes & Knowledge Management
+have a conversation to brainstorm ideas,General AI Assistant
+create an interactive 3D product viewer,3D & Spatial Design
+search for the latest news on this topic,Search & Research
+set up automated ticket escalation rules,Customer Support
+chat with a PDF to find specific information,Document Tools
+connect related notes automatically,Notes & Knowledge Management
+create a training presentation deck,Presentations
+set up 24/7 automated customer support,Customer Support
+write code to automate this task,Coding & Development
+log meeting minutes automatically,Meetings & Productivity
+clean up my podcast recording,Voice & Audio
+clean up and organize a cluttered inbox,Email & Sales
+keep my personal knowledge organized without folders,Notes & Knowledge Management
+create a consistent visual identity for my brand,Design
+remove echo and static from an audio file,Voice & Audio
+create a business intelligence dashboard,Data Analysis
+search and summarize multiple articles on a topic,Search & Research
+extract data from a scanned form,Document Tools
+review my code for errors,Coding & Development
+implement a new feature in this codebase,Coding & Development
+search knowledge across all our internal tools at once,Enterprise Knowledge
+build an internal tool from my data,Website Building
+I need a thinking partner for a big decision,General AI Assistant
+brainstorm plot ideas for my novel,Creative Writing
+create a stylized digital painting,Image Generation
+set up an automated pipeline between tools,Automation & Agents
+build an internal dashboard from a spreadsheet,Website Building
+I need sources for a research paper,Search & Research
+make a static picture speak with lip sync,Avatar & Digital Human
+research the current state of this field,Search & Research
+make icon graphics for my app,Image Generation
+build a deck for tomorrow's meeting,Presentations
+run a regression analysis on this dataset,Data Analysis
+find information buried in our company wiki,Enterprise Knowledge
+create a talking head video from a script,Video Generation
+design a banner ad,Design
+make a text to video clip,Video Generation
+get a written record of what was said in a call,Meetings & Productivity
+build a sales pitch deck,Presentations
+create branding assets for my company,Design
+create a realistic digital avatar for marketing,Avatar & Digital Human
+turn this text into spoken audio,Voice & Audio
+get a certified quality translation of a document,Translation
+unify search across our company's scattered tools,Enterprise Knowledge
+publish a website without any coding knowledge,Website Building
+convert this file to another format,Document Tools
+build a predictive model from this data,Data Analysis
+compress a large pdf file,Document Tools
+let an AI agent run this task on autopilot,Automation & Agents
+turn a meeting recording into notes,Meetings & Productivity
+turn my notes into a slide deck,Presentations
+improve the flow between these paragraphs,Writing & Editing
+find a specific clause in a long contract,Document Tools
+summarize this report for me,Document Tools
+review terms of service for legal risk,Legal & Compliance
+translate a menu into another language,Translation
+generate a report from this dataset,Data Analysis
+build a personal knowledge base from my notes,Notes & Knowledge Management
+help me set up unit testing for my project,Coding & Development
+optimize on-page content for search engines,SEO
+generate a voiceover for my video,Voice & Audio
+optimize this article for search ranking,SEO
+convert a pdf into an editable file,Document Tools
+find academic papers on this subject,Search & Research
+create a website for my small business in minutes,Website Building
+help me write compelling fiction,Creative Writing
+summarize a long email thread quickly,Email & Sales
+surface the most up to date internal policy document,Enterprise Knowledge
+design a slide deck for a webinar,Presentations
+write a marketing email sequence,Marketing Content
+create a synthetic voice for my app,Voice & Audio
+help me weigh the pros and cons of a choice,General AI Assistant
+help me schedule my calendar automatically,Meetings & Productivity
+automate responses to customer tickets,Customer Support
+help me write a class in object oriented code,Coding & Development
+I need a pitch deck for my startup,Presentations
+generate a sql query for this database,Coding & Development
+help with legal research on this case,Legal & Compliance
+write a poem about a theme,Creative Writing
+find time slots that work for everyone,Meetings & Productivity
+verify a fact by searching multiple sources,Search & Research
+fix awkward phrasing in my writing,Writing & Editing
+design a logo for my company,Image Generation
+search across everything I've written down,Notes & Knowledge Management
+review a legal contract for problem terms,Legal & Compliance
+I want to bounce ideas off an AI,General AI Assistant
+search inside a pdf for specific information,Document Tools
+generate ad variations for testing,Marketing Content
+create slides summarizing this report,Presentations
+write a fictional dialogue between characters,Creative Writing
+I need a realistic AI narrator voice,Voice & Audio
+I need product photos for my online store,Image Generation
+write a catchy tagline for my brand,Marketing Content
+automatically organize my daily schedule,Meetings & Productivity
+generate meeting minutes automatically,Meetings & Productivity
+generate copy for a landing page,Marketing Content
+transcribe my meeting recording,Meetings & Productivity
+find out what happened in the news today,Search & Research
+animate a scene into a short film,Video Generation
+research what keywords competitors rank for,SEO
+create a 3D visualization for the browser,3D & Spatial Design
+find who owns a project across our company systems,Enterprise Knowledge
+check my website's keyword rankings,SEO
+connect two apps to automate a task,Automation & Agents
+generate a website from a prompt,Website Building
+convert a customer message into my language,Translation
+compose a melody for my project,Music Generation
+aggregate this data by category and summarize,Data Analysis
+get advice on a personal situation,General AI Assistant
+help me make a flyer for an event,Design
+brainstorm a fictional world for my book,Creative Writing
+help me understand something I'm confused about,General AI Assistant
+fix a syntax error in my program,Coding & Development
+check if this document meets regulatory requirements,Legal & Compliance
+draft a standard employment agreement,Legal & Compliance
+generate a full song from a text prompt,Music Generation
+autocomplete this code as I type,Coding & Development
+prototype a mobile app screen,Design
+create a marketing graphic quickly,Design
+generate a voiceover in multiple languages,Voice & Audio
+calculate summary statistics for this spreadsheet,Data Analysis
+sync data automatically between two systems,Automation & Agents
+create a bot that performs a task on a schedule,Automation & Agents
+get verified answers from internal sources,Enterprise Knowledge
+draft a non-disclosure agreement,Legal & Compliance
+generate slides with charts and data,Presentations
+design a website without a developer,Website Building
+organize my inbox automatically for sales follow-ups,Email & Sales
+make an announcement voice for my app,Voice & Audio
+make a training video with a presenter,Video Generation
+generate a picture of an imaginary scene,Image Generation
+track how my rankings change over time,SEO
+shorten this paragraph without losing meaning,Writing & Editing
+track action items across multiple meetings,Meetings & Productivity
+make an ai generated picture of a character,Image Generation
+find out the latest developments in a field,Search & Research
+create a slideshow from bullet points,Presentations
+find evidence supporting this claim,Search & Research
+create marketing video clips,Video Generation
+merge multiple pdf files into one,Document Tools
+get a quick summary of a lengthy pdf,Document Tools
+create an AI presenter that speaks my script,Avatar & Digital Human
+build slides for a client meeting,Presentations
+create a lifelike digital presenter,Avatar & Digital Human
+summarize the key terms of this contract,Legal & Compliance
+find low competition keywords to target,SEO
+compose background music for a youtube video,Music Generation
+find high-value keywords for my niche,SEO
+generate music in a specific genre,Music Generation
+spin up a working web app from a prompt,Website Building
+ask general trivia or knowledge questions,General AI Assistant
+rewrite this to remove passive voice,Writing & Editing
+create a jingle for my brand,Music Generation
+design an immersive 3D web experience,3D & Spatial Design
+turn this text into a video,Video Generation
+launch a simple e-commerce site quickly,Website Building
+find content gaps compared to competitors,SEO
+create a UI mockup for my app,Design
+speed up how fast I reply to emails,Email & Sales
+search internal engineering documentation,Enterprise Knowledge
+I want an agent to handle repetitive work,Automation & Agents
+make an original soundtrack for a game,Music Generation
+design slides for a conference talk,Presentations
+search for statistics on a topic with sources,Search & Research
+help me understand this error message,Coding & Development
+organize my notes automatically,Meetings & Productivity
+get a second opinion on my reasoning,General AI Assistant
+generate narration for an audiobook,Voice & Audio
+generate a lo-fi beat for studying,Music Generation
+add captions to my short-form video,Video Generation
+create a landing page quickly without coding,Website Building
+ask a wide-ranging question about the world,General AI Assistant
+find an internal document nobody can locate,Enterprise Knowledge
+get action items emailed after every meeting,Meetings & Productivity
+connect my apps so data flows automatically,Automation & Agents
+analyze survey results and summarize findings,Data Analysis
+generate a video ad for social media,Video Generation
+remove background noise from my call recording,Voice & Audio
+generate product descriptions for my store,Marketing Content
+chat with an AI about my day,General AI Assistant
+write a promotional email for a sale,Marketing Content
+"search across slack, drive, and confluence at once",Enterprise Knowledge
+find every note I've written about a topic,Notes & Knowledge Management
+I want a general purpose chatbot,General AI Assistant
+generate a voice for an IVR phone system,Voice & Audio
+I need help debugging this script,Coding & Development
+analyze competitor backlink profiles,SEO
+search the web for current information,Search & Research
+create copy for a product launch campaign,Marketing Content
+convert a scanned receipt into text data,Document Tools
+generate an audiobook narration from a manuscript,Voice & Audio
+build a REST API endpoint,Coding & Development
+find outliers in this dataset,Data Analysis
+build an FAQ chatbot for our website,Customer Support
+answer a general knowledge question,General AI Assistant
+audit my website for technical SEO issues,SEO
+improve my page's search ranking,SEO
+draft a follow-up email to a sales lead,Email & Sales
+fix run-on sentences in my essay,Writing & Editing
+make a quarterly review presentation,Presentations
+find a note I wrote months ago,Notes & Knowledge Management
+animate a headshot into a presenting character,Avatar & Digital Human
+simplify this technical paragraph for a general audience,Writing & Editing
+generate a picture from a text description,Image Generation
+review my pull request for bugs,Coding & Development
+get a summary of what was discussed on the call,Meetings & Productivity
+get a precise translation of this paragraph,Translation
+make a digital portrait of a character,Image Generation
+reduce the volume of repetitive support tickets,Customer Support
+research a topic before writing about it,Search & Research
+write an opening line that hooks readers,Creative Writing
+find credible sources for a report,Search & Research
+build a website from a text description,Website Building
+develop the backstory for a fictional character,Creative Writing
+build a workflow that runs without me,Automation & Agents
+extract key clauses from this document,Document Tools
+mock up a new app screen from a description,Design
+check this document for compliance issues,Legal & Compliance
+run statistics on this data file,Data Analysis
+generate a song for my video background,Music Generation
+I need an explainer video for my product,Video Generation
+link related ideas across my notes automatically,Notes & Knowledge Management
+prioritize which emails need a response first,Email & Sales
+split a pdf into separate pages,Document Tools
+automatically tag and organize my notes,Notes & Knowledge Management
+summarize this call into action items,Meetings & Productivity
+convert this document into slides quickly,Presentations
+set up a trigger when a form is submitted,Automation & Agents
+track my visibility in AI search results,SEO
+fix punctuation errors in this text,Writing & Editing
+turn a design into a working website,Website Building
+look up current prices or rankings with sources,Search & Research
+draft a vendor services contract,Legal & Compliance
+search across every internal tool from one place,Enterprise Knowledge
+help me design a professional slideshow,Presentations
+create a webGL scene for my portfolio,3D & Spatial Design
+design a logo for my small business,Design
+generate a fantasy landscape image,Image Generation
+build a no-code web app quickly,Website Building
+write a recursive algorithm for this problem,Coding & Development
+write a fantasy story opening,Creative Writing
+I need one tool that does a bit of everything,General AI Assistant
+ask a philosophical question and discuss it,General AI Assistant
+automatically move data from one app to another,Automation & Agents
+make a portfolio website fast,Website Building
+create social media graphics,Image Generation
+create a product demo video,Video Generation
+create a signup form connected to a database,Website Building
+build a no-code automation,Automation & Agents
+clean messy excel data and remove duplicates,Data Analysis
+create a style guide for my brand,Design
+translate this email to another language,Translation
+improve clarity of this paragraph,Writing & Editing
+build an AI agent to answer support questions,Customer Support
+help me refactor this messy function,Coding & Development
+summarize a long conference call,Meetings & Productivity
+I need a quick graphic for instagram,Design
+create a picture for my blog post,Image Generation
+summarize the key patterns in this dataset,Data Analysis
+build a pivot table from this data,Data Analysis
+generate a video with realistic motion,Video Generation
+surface old notes relevant to what I'm working on now,Notes & Knowledge Management
+draft a fast reply to this email thread,Email & Sales
+build a dashboard from this data,Data Analysis
+automatically block time on my calendar,Meetings & Productivity
+write a short piece of flash fiction,Creative Writing
+make a video walkthrough of my app,Video Generation
+create a self-service support bot,Customer Support
+create background music for my podcast,Music Generation
+create a video with an ai spokesperson,Video Generation
+help me optimize this slow function,Coding & Development
+build a chart comparing performance across regions,Data Analysis
+write a javascript function for this website,Coding & Development
+write code to connect to a database,Coding & Development
+make an AI avatar spokesperson video,Avatar & Digital Human
+extract tables from a pdf document,Document Tools
+find an old note without searching folders,Notes & Knowledge Management
+convert a word document to pdf,Document Tools
+write a python script to parse this file,Coding & Development
+summarize this article in my own words,Writing & Editing
+extract a table of numbers from a pdf report,Document Tools
+reduce our support ticket resolution time,Customer Support
+I want an avatar to present my content,Video Generation
+clone a voice for my podcast intro,Voice & Audio
+generate a photorealistic image from a description,Image Generation
+make this writing sound more formal,Writing & Editing
+improve word choice in this paragraph,Writing & Editing
+flag high priority emails automatically,Email & Sales
+generate images for my presentation,Image Generation
+convert this webpage into a different language,Translation
+I need a smart assistant for random daily questions,General AI Assistant
+improve my site's page speed for search ranking,SEO
+translate this code from one language to another,Coding & Development
+find correlations between these columns,Data Analysis
+help me manage my overflowing inbox,Email & Sales
+generate a texture or pattern image,Image Generation
+talk through my options before deciding,General AI Assistant
+make a presentation from this outline,Presentations
+produce a video from a blog post automatically,Video Generation
+make a photo lip-sync to an audio track,Avatar & Digital Human
+check this cover letter for mistakes,Writing & Editing
+automate sending emails when something happens,Automation & Agents
+build a 3D scene for my portfolio site,3D & Spatial Design
+automatically categorize incoming support tickets,Customer Support
+generate a video from this script,Video Generation
+I need to build a small app quickly,Coding & Development
+create a digital human to present my content,Avatar & Digital Human
+ask a broad question about many topics,General AI Assistant
+have an open ended conversation about anything,General AI Assistant
+build an interactive chart from spreadsheet data,Data Analysis
+write a scene with tension between characters,Creative Writing
+create a 3D model viewer for an e-commerce site,3D & Spatial Design
+search our company's internal knowledge base,Enterprise Knowledge
+improve audio quality on my recording,Voice & Audio
+automate my workflow between tools,Automation & Agents
+predict which ad copy will perform best,Marketing Content
+get an accurate translation of this text,Translation
+create a custom AI voice for my brand,Voice & Audio
+create a virtual presenter for training content,Avatar & Digital Human
+polish this document before I send it,Writing & Editing
+summarize this long document quickly,Document Tools
+create an AI agent to handle a repetitive process,Automation & Agents
+have a back and forth conversation to work through my thinking,General AI Assistant
+deflect common customer questions automatically,Customer Support
+research a company's background with sources,Search & Research
+write copy for a facebook ad campaign,Marketing Content
+turn a google doc into slides,Presentations
+generate a talking avatar from an image,Avatar & Digital Human
+compose music that matches a certain mood,Music Generation
+triage my emails by priority,Email & Sales
+help me plot out a screenplay,Creative Writing
+review this contract for risky clauses,Legal & Compliance
+build a clickable prototype of an app screen,Design
+find backlink opportunities for my site,SEO
+build a digital twin avatar of myself,Avatar & Digital Human
+compose an instrumental score for my film,Music Generation
+build an interactive 3D model,3D & Spatial Design
+analyze this spreadsheet and find trends,Data Analysis
+compose a theme song from a description,Music Generation
+produce a highlight reel automatically,Video Generation
+see how my site compares to competitors,SEO
+pair program with me on this feature,Coding & Development
+predict future values from this data,Data Analysis
+turn scattered notes into an organized wiki,Notes & Knowledge Management
+ask questions about this PDF,Document Tools
+design a wireframe for a new feature,Design
+create ad copy optimized for conversions,Marketing Content
+create concept art for a game character,Image Generation
+convert subtitles into a different language,Translation
+turn my sketch into a UI design,Design
+record and enhance a podcast episode,Voice & Audio
+rewrite this sentence to sound clearer,Writing & Editing
+check my resume for grammar errors,Writing & Editing
+design packaging artwork for a product,Design
+fix this compiler error,Coding & Development
+self-organize my scattered notes,Notes & Knowledge Management
+build a chatbot for customer service,Customer Support
+get help reasoning through a problem,General AI Assistant
+write a compelling product description,Marketing Content
+paraphrase this paragraph,Writing & Editing
+search for expert opinions on a topic,Search & Research
+help me think through a hard decision,General AI Assistant
+translate this document into another language,Translation
+create a simple app without writing code,Website Building
+turn my spreadsheet into a working app,Website Building
+translate this contract into another language,Translation
+look up who won an award or event,Search & Research
+capture follow-up tasks from a meeting,Meetings & Productivity
+build a small business website quickly,Website Building
+find the average and median of this dataset,Data Analysis
+help me set up a git repository,Coding & Development
+help me write a short story,Creative Writing
+create a piece of orchestral music,Music Generation
+look up the history of a topic with citations,Search & Research
+chat casually about a random topic,General AI Assistant
+build a booking page for my business,Website Building
+design a business card,Design
+create a custom ringtone melody,Music Generation
+make artwork for a poster,Image Generation
+flag risky clauses in a legal document,Legal & Compliance
+create a forecast based on historical numbers,Data Analysis
+get real-time search results with citations,Search & Research
+help me fix a bug in my code,Coding & Development
+help me build a chart from this csv,Data Analysis
+record a video call and generate a transcript,Meetings & Productivity

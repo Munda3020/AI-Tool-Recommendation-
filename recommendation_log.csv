@@ -1,0 +1,21 @@
+task,rank,tool_name,category,match_score,predicted_category,classifier_confidence,used_category_filter
+I need to turn my notes into a pitch deck for investors,1,Tome,Presentations,0.486,Presentations,0.554,True
+I need to turn my notes into a pitch deck for investors,2,Gamma,Presentations,0.407,Presentations,0.554,True
+I need to turn my notes into a pitch deck for investors,3,Decktopus,Presentations,0.126,Presentations,0.554,True
+find recent scientific research on this topic with sources,1,Consensus,Search & Research,0.451,Search & Research,0.908,True
+find recent scientific research on this topic with sources,2,Perplexity,Search & Research,0.22,Search & Research,0.908,True
+find recent scientific research on this topic with sources,3,NotebookLM,Search & Research,0.108,Search & Research,0.908,True
+generate a realistic voiceover for a training video,1,Murf AI,Voice & Audio,0.523,Voice & Audio,0.41,True
+generate a realistic voiceover for a training video,2,Play.ht,Voice & Audio,0.201,Voice & Audio,0.41,True
+generate a realistic voiceover for a training video,3,Descript,Voice & Audio,0.163,Voice & Audio,0.41,True
+help me write and debug python code for a data pipeline,1,Claude Code,Coding & Development,0.208,Coding & Development,0.711,True
+help me write and debug python code for a data pipeline,2,GitHub Copilot,Coding & Development,0.085,Coding & Development,0.711,True
+help me write and debug python code for a data pipeline,3,Cursor,Coding & Development,0.082,Coding & Development,0.711,True
+translate this contract into another language,1,DeepL,Translation,0.229,Translation,0.868,True
+automate customer support ticket responses,1,Ada,Customer Support,0.491,Customer Support,0.923,True
+automate customer support ticket responses,2,Freshdesk Freddy AI,Customer Support,0.462,Customer Support,0.923,True
+automate customer support ticket responses,3,Zendesk AI,Customer Support,0.459,Customer Support,0.923,True
+check my website's SEO ranking against competitors,1,Clearscope,SEO,0.454,SEO,0.84,True
+check my website's SEO ranking against competitors,2,Surfer SEO,SEO,0.413,SEO,0.84,True
+check my website's SEO ranking against competitors,3,Ahrefs,SEO,0.393,SEO,0.84,True
+turn my photo into a talking avatar video,1,D-ID,Avatar & Digital Human,0.75,Avatar & Digital Human,0.858,True
